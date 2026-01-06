@@ -35,7 +35,7 @@
 
 /* Header | Hero-Container */
 header {
-    background-image: url("../assets/images/banner/banner1.png");
+    background-image: url("assets/images/banner/banner1.png");
     background-size: cover;
 }
 
@@ -156,7 +156,7 @@ img {
 
 /* Contact Section */
 .contact-container {
-    background-image: url("../assets/images/gradient2.png");
+    background-image: url("assets/images/gradient2.png");
     background-size: cover;
     border-radius: 5px;
 }
